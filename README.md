@@ -27,9 +27,9 @@ This mirrors standard practice in software engineering generally: commit source,
 
 ## 3. Verification Screenshot
 
-![hi](/home/aakarsh376/2561116-assignment1/Screenshot from 2026-07-20 05-07-16.png)
+![hi](Screenshot from 2026-07-20 05-07-16.png)
 
-![hello](/home/aakarsh376/2561116-assignment1/Screenshot from 2026-07-20 05-36-59.png)
+![hello](Screenshot from 2026-07-20 05-36-59.png)
 ![hello](/home/aakarsh376/2561116-assignment1/Screenshot from 2026-07-20 05-37-22.png)
 ![hello](/home/aakarsh376/2561116-assignment1/Screenshot from 2026-07-20 05-40-41.png)
 ![hello](/home/aakarsh376/2561116-assignment1/Screenshot from 2026-07-20 10-03-13.png)
